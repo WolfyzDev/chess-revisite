@@ -2,7 +2,7 @@
 name: Erreur de code
 about: 'Vous avez repérez une erreur dans le code fournie et voulez nous le signalez '
 title: ''
-labels: bug
+labels: Erreur de code
 assignees: WolfyzDev
 
 ---
