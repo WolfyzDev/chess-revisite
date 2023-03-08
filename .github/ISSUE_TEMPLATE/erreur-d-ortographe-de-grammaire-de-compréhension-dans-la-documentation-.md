@@ -3,7 +3,7 @@ name: 'Erreur d''ortographe/de grammaire/de compréhension dans la documentation
 about: 'Vous avez vu une erreur au sein de la documentation et souhaitez nous en faire
   part '
 title: ''
-labels: Documentation
+labels: Erreur de documentation
 assignees: WolfyzDev
 
 ---
