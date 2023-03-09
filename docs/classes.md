@@ -52,4 +52,7 @@ Le jeu d'échec a bien évidemment un plateau, gérer par la classe `Board`.
 Nous allons avoir deux méthodes privés qui vont créer le plateau (`create`) et ajouter les pièces (`add_pieces`). 
 Il va y avoir d'autres méthodes : 
 
-- `move` qui va gérer les déplacements de la pièces et qui va donc être complexe
+- `move` qui va gérer les déplacements de la pièces et qui va donc être complexe;
+- `check_promotion` qui va gérer la promotion d'une pièce d'échec (arrivée d'un pion au bout du plateau);
+- `valid_move` qui va vérifier si un mouvement est valide;
+- 
